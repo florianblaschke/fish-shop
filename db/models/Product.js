@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import "./Review";
+
 const { Schema } = mongoose;
 
 const productSchema = new Schema({
